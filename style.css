@@ -1,0 +1,29 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+    font: bold;
+    text-align: center;
+}
+
+.halloween {
+    background-color: black;
+    color: orange;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
